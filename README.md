@@ -11,7 +11,7 @@ Systems Analyst focused on endpoint management, automation, and security for lar
 
 ## Featured Repositories
 - [powershell-sysadmin-toolkit] - powershell scripts for Intune, SCCM and fleet management
-- [Homelab](link) - Proxmox-based lab with documented builds and configs
+- [Homelab] - Proxmox-based lab with documented builds and configs (under construction)
 
 ## Contact
 - LinkedIn: link
