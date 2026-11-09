@@ -4,7 +4,7 @@
 Systems Analyst focused on endpoint management, automation, and security for large Windows environments.
 
 ## What I work with
-- Microsoft Admin center (Azure, Intune, etc.), SCCM, PDQ Deploy
+- Microsoft Admin center (365, XDR, Azure, Intune, etc.), SCCM, PDQ Connect
 - PowerShell scripting, automation and reporting
 - Active Directory, Defender, vulnerability management
 - Homelab: small enterprise infrastructure lab with ProxmoxVE as the hypervisor underneath, PBS for backups, and other
