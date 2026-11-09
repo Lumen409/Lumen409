@@ -9,8 +9,8 @@ Systems Analyst focused on endpoint management, automation, and security for lar
 - Active Directory, Defender, vulnerability management
 - Homelab: Proxmox, WireGuard, OPNsense, VLANs
 
-## Featured projects
-- [PowerShell Sysadmin Toolkit](link) - scripts for Intune, SCCM, deployed with PDQ, and fleet management
+## Featured Repositories
+- [powershell-sysadmin-toolkit](link) - scripts for Intune, SCCM, deployed with PDQ, and fleet management
 - [Homelab](link) - Proxmox-based lab with documented builds and configs
 
 ## Contact
