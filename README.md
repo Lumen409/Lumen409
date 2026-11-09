@@ -14,4 +14,4 @@ Systems Analyst focused on endpoint management, automation, and security for lar
 - [Homelab] - Proxmox-based lab with documented builds and configs (under construction)
 
 ## Contact
-- LinkedIn: link
+- LinkedIn: not sure if I wanna put it yet lol
