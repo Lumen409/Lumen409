@@ -7,9 +7,7 @@ Systems Analyst focused on endpoint management, automation, and security for lar
 - Microsoft Admin center (365, XDR, Azure, Intune, etc.), SCCM, PDQ Connect
 - PowerShell scripting, automation and reporting
 - Active Directory, Defender, vulnerability management
-- Homelab: small enterprise infrastructure lab with ProxmoxVE as the hypervisor underneath, PBS for backups, and other
-servers like, a Self-hosted VPN, movie server, adblocker, etc.
-
+- Homelab: small enterprise infrastructure lab with ProxmoxVE as the hypervisor underneath, PBS for backups, and a couple others
 ## Featured Repositories
 - [powershell-sysadmin-toolkit](https://github.com/Lumen409/powershell-sysadmin-toolkit) - powershell scripts for Intune, SCCM and fleet management
 - [Homelab] - Proxmox-based lab with documented builds and configs (under construction)
